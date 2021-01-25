@@ -1,0 +1,1 @@
+KATA03: Freddy FridaysWrite a program which counts and displays the number of occurrences of Friday the 13th in a particular year. Use the current year as the starting year and 3000 as the maximum year.Optional extra: Display the subset of years which have the maximum number of Friday the 13ths.
